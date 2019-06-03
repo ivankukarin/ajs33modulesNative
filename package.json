@@ -1,0 +1,26 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankukarin/ajs33modulesNative.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ivankukarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivankukarin/ajs33modulesNative/issues"
+  },
+  "homepage": "https://github.com/ivankukarin/ajs33modulesNative#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
