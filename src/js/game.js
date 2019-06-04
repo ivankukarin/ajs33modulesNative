@@ -1,6 +1,6 @@
 import Character from './domain.js';
 
-export class Game {
+export default class Game {
   start() {
     console.log('game started');
   }
